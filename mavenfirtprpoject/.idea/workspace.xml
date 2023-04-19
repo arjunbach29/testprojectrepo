@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd2564ec-66b7-4bd1-b473-b4400d57f580" name="Changes" comment="push">
+      <change beforePath="$PROJECT_DIR$/../demoproject/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../demoproject/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoproject/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../demoproject/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumpractice/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumpractice/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumpractice/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumpractice/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumpractice/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumpractice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumpractice/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumpractice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumpractice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumpractice/src/test/java/org/example/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumpractice/src/test/java/org/example/AppTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +60,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "last_directory_selection": "C:/java epam/mavenfirtprpoject/src/test/java/org/example",
-    "last_opened_file_path": "C:/java epam/mavenfirtprpoject",
+    "last_opened_file_path": "C:/java epam/seleniumpractice",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -64,7 +72,7 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/java epam/mavenfirtprpoject/testng.xml">
+  <component name="RunManager">
     <configuration name="C:/java epam/mavenfirtprpoject/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="mavenfirtprpoject" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
@@ -110,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681373084031</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="push">
+      <created>1681373290806</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681373290806</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
