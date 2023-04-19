@@ -4,29 +4,213 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ced7d9d6-4181-4b05-a531-0f85e5b9394c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mavenfirtprpoject/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../mavenfirtprpoject/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mavenfirtprpoject/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../mavenfirtprpoject/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mavenfirtprpoject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mavenfirtprpoject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../seleniumpractice/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../seleniumpractice/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumpractice/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../seleniumpractice/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumpractice/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../seleniumpractice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumpractice/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../seleniumpractice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumpractice/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../seleniumpractice/src/test/java/org/example/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumpractice/src/test/java/org/example/AppTest.java" afterDir="false" />
+    <list default="true" id="ced7d9d6-4181-4b05-a531-0f85e5b9394c" name="Changes" comment="second push">
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/bin/m2.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/bin/mvn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/bin/mvnDebug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/bin/mvnyjp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/boot/plexus-classworlds.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/conf/logging/simplelogger.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/conf/toolchains.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/commons-cli.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/commons-codec-1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/commons-codec.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/commons-lang3.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/ext/hazelcast/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/ext/redisson/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/failureaccess.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/guava-30.1-jre.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/guice.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/httpclient.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/httpcore-4.4.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/jansi-2.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/jansi-native/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/jansi-native/Windows/x86/jansi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/jansi.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/javax.annotation-api.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/javax.inject-1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/javax.inject.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/jcl-over-slf4j-1.7.36.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/jcl-over-slf4j.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/maven-artifact-3.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/maven-builder-support-3.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/maven-compat-3.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/maven-core-3.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/maven-embedder-3.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/maven-model-3.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/maven-model-builder-3.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/maven-plugin-api-3.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/maven-repository-metadata-3.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/maven-resolver-named-locks-1.9.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/maven-resolver-provider-3.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/maven-resolver-transport-file-1.9.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/maven-resolver-transport-http-1.9.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/maven-resolver-transport-wagon-1.9.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/maven-settings-3.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/maven-settings-builder-3.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/maven-shared-utils-3.3.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/org.eclipse.sisu.inject-0.3.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/org.eclipse.sisu.inject.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/org.eclipse.sisu.plexus.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/plexus-cipher-2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/plexus-cipher.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/plexus-component-annotations-2.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/plexus-component-annotations.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/plexus-interpolation.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/plexus-sec-dispatcher-2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/plexus-utils-3.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/slf4j-api.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/wagon-file-3.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/wagon-http-3.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-maven-3.9.1-bin/apache-maven-3.9.1/lib/wagon-http-shared-3.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoprojecjunit/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoprojecjunit/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoproject/target/classes/org/example/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoproject/target/test-classes/org/example/frameexample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoproject/target/test-classes/org/example/javascriptalertexample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoproject/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/jquery-3.6.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-org.example.AppTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/org.example.AppTest/Command line test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/org.example.AppTest/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/org.example.AppTest/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/org.example.AppTest/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/org.example.AppTest/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/org.example.AppTest/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/org.example.AppTest/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/org.example.AppTest/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/org.example.AppTest/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/org.example.AppTest/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/org.example.AppTest/Command line test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/example/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juintpractice/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juintpractice/.idea/sonarlint/issuestore/2/6/268b09d2a5cdab7d148f0ec91f7b3fb51601410d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juintpractice/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juintpractice/.idea/sonarlint/securityhotspotstore/2/6/268b09d2a5cdab7d148f0ec91f7b3fb51601410d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juintpractice/.idea/sonarlint/securityhotspotstore/4/3/438c56474209176629917f1aaaac4e1cf31f765e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juintpractice/target/classes/classpath.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juintpractice/target/classes/org/example/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juintpractice/target/test-classes/org/example/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavenfirtprpoject/.idea/sonarlint/issuestore/0/5/05854cc5fb3199ed36bd9dd26faa86d268fe93cf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavenfirtprpoject/.idea/sonarlint/issuestore/2/6/268b09d2a5cdab7d148f0ec91f7b3fb51601410d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavenfirtprpoject/.idea/sonarlint/issuestore/4/3/438c56474209176629917f1aaaac4e1cf31f765e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavenfirtprpoject/.idea/sonarlint/issuestore/5/2/522a7a4e21649af06297e31a9e33f13bb4fd3022" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavenfirtprpoject/.idea/sonarlint/issuestore/6/e/6ecd6000a7b6f4a2884412ff19f74193ed089648" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavenfirtprpoject/.idea/sonarlint/issuestore/d/d/dd7b3350c29c49497756c7f32c69a3bed18b1cba" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavenfirtprpoject/.idea/sonarlint/securityhotspotstore/0/5/05854cc5fb3199ed36bd9dd26faa86d268fe93cf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavenfirtprpoject/.idea/sonarlint/securityhotspotstore/2/6/268b09d2a5cdab7d148f0ec91f7b3fb51601410d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavenfirtprpoject/.idea/sonarlint/securityhotspotstore/4/3/438c56474209176629917f1aaaac4e1cf31f765e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavenfirtprpoject/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavenfirtprpoject/.idea/sonarlint/securityhotspotstore/6/e/6ecd6000a7b6f4a2884412ff19f74193ed089648" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../p1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../p1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../p1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seleniumpractice/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seleniumpractice/.idea/sonarlint/issuestore/4/3/438c56474209176629917f1aaaac4e1cf31f765e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seleniumpractice/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seleniumpractice/.idea/sonarlint/issuestore/5/2/522a7a4e21649af06297e31a9e33f13bb4fd3022" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seleniumpractice/.idea/sonarlint/issuestore/6/e/6ecd6000a7b6f4a2884412ff19f74193ed089648" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seleniumpractice/.idea/sonarlint/issuestore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seleniumpractice/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seleniumpractice/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seleniumpractice/.idea/sonarlint/securityhotspotstore/4/3/438c56474209176629917f1aaaac4e1cf31f765e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seleniumpractice/.idea/sonarlint/securityhotspotstore/5/2/522a7a4e21649af06297e31a9e33f13bb4fd3022" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seleniumpractice/.idea/sonarlint/securityhotspotstore/6/e/6ecd6000a7b6f4a2884412ff19f74193ed089648" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seleniumpractice/.idea/sonarlint/securityhotspotstore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seleniumpractice/.idea/sonarlint/securityhotspotstore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seleniumpractice/.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seleniumpractice/.idea/sonarlint/securityhotspotstore/d/d/dd7b3350c29c49497756c7f32c69a3bed18b1cba" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seleniumpractice/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seleniumpractice/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/.idea/sonarlint/issuestore/5/2/522a7a4e21649af06297e31a9e33f13bb4fd3022" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/.idea/sonarlint/issuestore/c/0/c049dbb431f8ff7e9fda71897548a9eaa626ae36" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/.idea/sonarlint/securityhotspotstore/4/3/438c56474209176629917f1aaaac4e1cf31f765e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/.idea/sonarlint/securityhotspotstore/5/2/522a7a4e21649af06297e31a9e33f13bb4fd3022" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/.idea/sonarlint/securityhotspotstore/c/0/c049dbb431f8ff7e9fda71897548a9eaa626ae36" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/classes/org/example/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/junitreports/TEST-org.example.AppTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/old/org.example.AppTest/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/old/org.example.AppTest/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/old/org.example.AppTest/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/old/org.example.AppTest/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/org.example.AppTest/Command line test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-junit-results/Command line suite/Command line test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-junit-results/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-junit-results/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-junit-results/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-junit-results/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-junit-results/old/Command line suite/Command line test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-junit-results/old/Command line suite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-junit-results/old/Command line suite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-junit-results/old/Command line suite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-junit-results/old/Command line suite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-junit-results/old/Command line suite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-junit-results/old/Command line suite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-junit-results/old/Command line suite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-junit-results/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-junit-results/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-junit-results/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-junit-results/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-junit-results/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-junit-results/testng-reports1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-junit-results/testng-reports2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-junit-results/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-native-results/Command line suite/Command line test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-native-results/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-native-results/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-native-results/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-native-results/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-native-results/junitreports/TEST-org.example.App1Test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-native-results/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-native-results/old/Command line suite/Command line test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-native-results/old/Command line suite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-native-results/old/Command line suite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-native-results/old/Command line suite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-native-results/old/Command line suite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-native-results/old/Command line suite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-native-results/old/Command line suite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-native-results/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-native-results/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-native-results/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-native-results/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-native-results/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-native-results/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-reports1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/surefire-reports/testng-reports2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/target/test-classes/org/example/App1Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/test-output/Default Suite/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testngexample/test-output/testng-failed.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +245,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "last_opened_file_path": "C:/java epam/jenkinsexample"
   }
 }]]></component>
@@ -73,6 +258,21 @@
       <option name="presentableId" value="Default" />
       <updated>1681841894344</updated>
     </task>
+    <task id="LOCAL-00001" summary="second push">
+      <created>1681887999838</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681887999838</updated>
+    </task>
+    <task id="LOCAL-00002" summary="second push">
+      <created>1681888485195</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681888485195</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,5 +285,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second push" />
+    <option name="LAST_COMMIT_MESSAGE" value="second push" />
   </component>
 </project>
